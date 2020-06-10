@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN " "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns ="http://www.w3.org/2000/svg" version="1.1">
+<circle cx="700" cy="40" r="80" fill="red"/> 
+<rect x="1" y="10" height="300" width="100" fill="pink"/> 
+<ellipse cx="500" cy="600" rx="250" ry="100" fill="cyan"/> 
+<circle cx="100" cy="430" r="80" fill="green"/> 
+<rect x="611" y="440" height="300" width="100" fill="purple"/> 
+<ellipse cx="700" cy="600" rx="250" ry="100" fill="lightblue"/> 
+<rect x="220" y="30" height="50" width="40" fill="yellow"/> 
+<ellipse cx="454" cy="93" rx="23" ry="67" fill="black"/> 
+</svg>

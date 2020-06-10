@@ -1,0 +1,15 @@
+a J.R.R Tolkien
+t Sillmarilion
+g Novel, Fantasy Fiction
+d The Silmarillion is a collection of mythopoeic works by English writer J. R. R. Tolkien, edited and published posthumously by his son, Christopher Tolkien, in 1977 with assistance from Guy Gavriel Kay.
+y 1977
+r 3.9/5
+u 1111
+
+a J.M.R Tmlkien
+t Pillmarilion
+g Novel, Fiction
+d The Silmarillion  edited and published posthumously by his son, Christopher Tolkien, in 1977 with assistance from Guy Gavriel Kay.
+y 2000
+r 3.0
+u 1112

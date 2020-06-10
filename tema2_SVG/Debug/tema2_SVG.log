@@ -1,0 +1,16 @@
+﻿  Circle.cpp
+  Ellipse.cpp
+  FactoryF.cpp
+  Figures.cpp
+  main.cpp
+  PrintF.cpp
+  Rect.cpp
+  TranslateF.cpp
+C:\Users\home\Desktop\Projects_OOP\tema2_SVG\TranslateF.cpp(17,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\home\Desktop\Projects_OOP\tema2_SVG\TranslateF.cpp(34,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\home\Desktop\Projects_OOP\tema2_SVG\TranslateF.cpp(71,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\home\Desktop\Projects_OOP\tema2_SVG\TranslateF.cpp(90,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\home\Desktop\Projects_OOP\tema2_SVG\TranslateF.cpp(127,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\home\Desktop\Projects_OOP\tema2_SVG\TranslateF.cpp(144,23): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  tema2_SVG.vcxproj -> C:\Users\home\Desktop\Projects_OOP\tema2_SVG\Debug\tema2_SVG.exe

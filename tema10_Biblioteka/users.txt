@@ -1,0 +1,15 @@
+user Ferafld
+password 231faFE-WQ
+level 1
+user qeFerafld
+password gFE-WQm
+level 1
+user weFerafld
+password z2ddda31faFE
+level 0
+user wld
+password 31faFE-WQR
+level 0
+user Gero
+password 13234
+level 1
